@@ -28,3 +28,8 @@ This file can be imported in other programs like Rouvy.
 ### Developer
 
 Run `python woz-to-mrc.py` to run the doctests.
+
+## Roadmap
+
+Maybe in the future the tools will be converted to JavaScript and I will build a website around them.
+If you have other suggestions for tools, which could be helpful for Rouvy, write a new issue.
