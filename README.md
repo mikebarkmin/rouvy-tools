@@ -1,3 +1,5 @@
+Rouvy tools is integrated into [bycycling](https://github.com/mikebarkmin/bycycling). There you can find an [online version of the tool](https://www.bycycling.eu/tools/mrc-workout-creator).
+
 # Rouvy Tools
 
 This is a collection of python script to make working out in Rouvy better. For example by converting Zwift workouts to mrc so that they can be imported. Zwift Academy in Rouvy - here we go!
